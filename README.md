@@ -3,8 +3,8 @@
 ### 🚀 Sobre mí
 Soy un desarrollador de software enfocado en crear soluciones eficientes, escalables y con código limpio. Me apasiona aprender tecnologías nuevas y colaborar en proyectos de código abierto.
 
-- 🌱 Estoy aprendiendo de forma activa: **[Tecnología, ej: Spring, Docker, Next.js]**
-- 💬 Pregúntame sobre: **[Tus fuertes, ej: React, Python, Arquitectura de software]**
+- 🌱 Estoy aprendiendo de forma activa: **Spring, Docker, Next.js, React**
+- 💬 Pregúntame sobre: **React, Python, Java, JavaScript**
 
 ---
 
