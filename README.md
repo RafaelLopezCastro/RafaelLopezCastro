@@ -1,16 +1,34 @@
-## Hi there 👋
+# ¡Hola! Soy Rafael 👋
 
-<!--
-**RafaelLopezCastro/RafaelLopezCastro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Sobre mí
+Soy un desarrollador de software enfocado en crear soluciones eficientes, escalables y con código limpio. Me apasiona aprender tecnologías nuevas y colaborar en proyectos de código abierto.
 
-Here are some ideas to get you started:
+- 🌱 Estoy aprendiendo de forma activa: **[Tecnología, ej: Spring, Docker, Next.js]**
+- 💬 Pregúntame sobre: **[Tus fuertes, ej: React, Python, Arquitectura de software]**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tecnologías y Herramientas
+
+#### Frontend
+![React](https://shields.io)
+![TypeScript](https://shields.io)
+![Tailwind CSS](https://shields.io)
+
+#### Backend / Base de Datos
+![Node.js](https://shields.io)
+![Python](https://shields.io)
+![PostgreSQL](https://shields.io)
+
+#### Herramientas / DevOps
+![Git](https://shields.io)
+![Docker](https://shields.io)
+![Linux](https://shields.io)
+
+---
+
+### 🤝 Conéctate conmigo
+
+[![LinkedIn](https://shields.io)](www.linkedin.com/in/rafael-lópez-castro-197883263)
+[![Email](https://shields.io)](mailto:rafael.lopez.cas25@gmail.com)
+
